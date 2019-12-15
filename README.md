@@ -1,12 +1,12 @@
-#Bài tập lớn lớp java_HIT 
+# Bài tập lớn lớp java_HIT 
 
 
-##Nhóm Vũ Xuân Thành và Hà Văn Hiển
+## Nhóm Vũ Xuân Thành và Hà Văn Hiển
 
 
 
 
-###Nhiệm vụ cần làm là:
+### Nhiệm vụ cần làm là:
 
     * thêm nhân viên
     * xóa nhân viên(sa thải)
